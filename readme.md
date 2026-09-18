@@ -1,3 +1,9 @@
+> **Archived — this project now lives in [quant-toolkit](https://github.com/Myan17/quant-toolkit).**
+> Its code and full commit history are preserved there under
+> [`legacy/daily-returns-analyzer`](https://github.com/Myan17/quant-toolkit/tree/main/legacy/daily-returns-analyzer).
+> The rebuilt library adds tests, a walk-forward backtest, and fixes to the
+> Sortino calculation and to weight/ticker alignment.
+
 # 📈 Daily Returns & Volatility Analyzer  
 ### *A fully interactive quantitative finance tool for analyzing asset returns, volatility, and risk-adjusted performance.*
 
